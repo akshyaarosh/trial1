@@ -1,4 +1,4 @@
-let a=3;
+let a=2;
 if(a%2 == 0){
 console.log("even");
 }
